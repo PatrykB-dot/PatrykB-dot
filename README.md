@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning <br />
-   📫 Data Science with Python <br />
-   📫 SQL for Data Analyst
+&emsp;   📫 Data Science with Python <br />
+&emsp;   📫 SQL for Data Analyst
