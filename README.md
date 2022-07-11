@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning SQL for Data Analyst
+- 🌱 I’m currently learning Data Science with Python, SQL for Data Analyst
