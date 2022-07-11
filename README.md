@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning 
-   📫 Data Science with Python, 
+- 🌱 I’m currently learning <br />
+   📫 Data Science with Python <br />
    📫 SQL for Data Analyst
